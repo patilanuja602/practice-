@@ -10,5 +10,3 @@ print("i am in main after the branch1 merge")
 
 
 print("\\\\\\\\\\\\\\\\\\\\rebasing i am in main\\\\\\\\\\\\\\")
-
-print("\\\\\\\\\\\\\\\\\\\\\\\rabise branch1\\\\\\\\\\\\\\\")
